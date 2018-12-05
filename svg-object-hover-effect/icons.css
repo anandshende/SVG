@@ -1,0 +1,10 @@
+.close-icon {
+    fill: black;
+    stroke: black;
+}
+
+.close-icon:hover {
+    fill: blue;
+    stroke: blue;
+    cursor: pointer;
+}
