@@ -1,6 +1,6 @@
 <?xml-stylesheet type="text/css" href="../index.css"?>
 
-<svg onclick="top.svgCallback(event, 'arrow-left')" class="arrow left-arrow" width="119.06mm" height="92.779mm" version="1.1" viewBox="0 0 119.06 92.779" xmlns="http://www.w3.org/2000/svg">
+<svg onclick="top.svgEventTrigger(event, 'arrow-left')" class="arrow left-arrow" width="119.06mm" height="92.779mm" version="1.1" viewBox="0 0 119.06 92.779" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(-6.6146 -184.38)">
   <g transform="rotate(180 66.146 230.77)">
    <rect x="6.6146" y="224.24" width="119.06" height="13.229" rx="6.6146" ry="6.6146" style="fill-rule:evenodd;fill:#999"/>

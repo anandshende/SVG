@@ -13,4 +13,4 @@ Displays + adds the hovering relative to the display element within SVG icon.
 
 4. Click Event
 
-5. Click Event on container outside SVG DOM
+5. Pointer events
