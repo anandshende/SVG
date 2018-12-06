@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>SVG DEMO</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        object, object *{
+            pointer-events: none;
+        }
+    </style>
+</head>
+
+<body>
+    <object id="svgObject" data="./icons/close.svg" type=""></object>
+    <!-- <embed src="./icons/close.svg"></embed> -->
+    <!-- <iframe src="./icons/close.svg" frameborder="0"></iframe> -->
+
+    <script>
+        var svgCallback = function (event, svgIconName) {
+            alert('Clicked on ' + svgIconName);
+        }
+    </script>
+</body>
+
+</html>
