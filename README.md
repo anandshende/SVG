@@ -1,7 +1,7 @@
 # SVG
 
 
-Details:
+Details (In Incremental Order):
 1. Display Using Object:
 Displays only the svg icon using object tag.
 
